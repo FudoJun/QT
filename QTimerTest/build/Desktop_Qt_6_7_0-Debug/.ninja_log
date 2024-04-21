@@ -1,0 +1,27 @@
+# ninja log v5
+0	163	1713605450502047845	QTimerTest_autogen/timestamp	eda02d9d6f974a85
+0	163	1713605450502047845	QTimerTest_autogen/mocs_compilation.cpp	eda02d9d6f974a85
+0	163	1713605450502047845	/home/jun/QT_project/QTimerTest/build/Desktop_Qt_6_7_0-Debug/QTimerTest_autogen/timestamp	eda02d9d6f974a85
+0	163	1713605450502047845	/home/jun/QT_project/QTimerTest/build/Desktop_Qt_6_7_0-Debug/QTimerTest_autogen/mocs_compilation.cpp	eda02d9d6f974a85
+163	1025	1713605451366024368	CMakeFiles/QTimerTest.dir/QTimerTest_autogen/mocs_compilation.cpp.o	ee9911ff8da0e3ed
+164	1156	1713605451498020780	CMakeFiles/QTimerTest.dir/mainwindow.cpp.o	ec521597fa4fbcd8
+163	1157	1713605451498020780	CMakeFiles/QTimerTest.dir/main.cpp.o	e45d7c3950a55d75
+1157	1341	1713605451682015779	QTimerTest	cab0a0b9142bc1a4
+1	10	1713605504092574108	QTimerTest_autogen/timestamp	eda02d9d6f974a85
+1	10	1713605504092574108	QTimerTest_autogen/mocs_compilation.cpp	eda02d9d6f974a85
+1	10	1713605504092574108	/home/jun/QT_project/QTimerTest/build/Desktop_Qt_6_7_0-Debug/QTimerTest_autogen/timestamp	eda02d9d6f974a85
+1	10	1713605504092574108	/home/jun/QT_project/QTimerTest/build/Desktop_Qt_6_7_0-Debug/QTimerTest_autogen/mocs_compilation.cpp	eda02d9d6f974a85
+10	897	1713605504980549400	CMakeFiles/QTimerTest.dir/mainwindow.cpp.o	ec521597fa4fbcd8
+897	1099	1713605505180543833	QTimerTest	cab0a0b9142bc1a4
+1	10	1713605552667209548	QTimerTest_autogen/timestamp	eda02d9d6f974a85
+1	10	1713605552667209548	QTimerTest_autogen/mocs_compilation.cpp	eda02d9d6f974a85
+1	10	1713605552667209548	/home/jun/QT_project/QTimerTest/build/Desktop_Qt_6_7_0-Debug/QTimerTest_autogen/timestamp	eda02d9d6f974a85
+1	10	1713605552667209548	/home/jun/QT_project/QTimerTest/build/Desktop_Qt_6_7_0-Debug/QTimerTest_autogen/mocs_compilation.cpp	eda02d9d6f974a85
+11	906	1713605553563184138	CMakeFiles/QTimerTest.dir/mainwindow.cpp.o	ec521597fa4fbcd8
+906	1109	1713605553763178465	QTimerTest	cab0a0b9142bc1a4
+1	10	1713605604857715870	QTimerTest_autogen/timestamp	eda02d9d6f974a85
+1	10	1713605604857715870	QTimerTest_autogen/mocs_compilation.cpp	eda02d9d6f974a85
+1	10	1713605604857715870	/home/jun/QT_project/QTimerTest/build/Desktop_Qt_6_7_0-Debug/QTimerTest_autogen/timestamp	eda02d9d6f974a85
+1	10	1713605604857715870	/home/jun/QT_project/QTimerTest/build/Desktop_Qt_6_7_0-Debug/QTimerTest_autogen/mocs_compilation.cpp	eda02d9d6f974a85
+11	858	1713605605705691380	CMakeFiles/QTimerTest.dir/mainwindow.cpp.o	ec521597fa4fbcd8
+858	1057	1713605605901685720	QTimerTest	cab0a0b9142bc1a4

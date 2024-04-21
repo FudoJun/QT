@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-27ff9883cd7a9a4708bb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QDataTime",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QDataTime::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QDataTime-Debug-e24fa58e86ed8cd02e90.json",
+					"name" : "QDataTime",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QDataTime_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QDataTime_autogen-Debug-55accaabd27012a0d7a9.json",
+					"name" : "QDataTime_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QDataTime_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QDataTime_autogen_timestamp_deps-Debug-a3a923b105788c04f598.json",
+					"name" : "QDataTime_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jun/QT_project/QDataTime/build/Desktop_Qt_6_7_0-Debug",
+		"source" : "/home/jun/QT_project/QDataTime"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

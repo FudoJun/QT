@@ -1,0 +1,17 @@
+# ninja log v5
+9	931	1713600238793144589	CMakeFiles/SignalAndSlot.dir/mainwindow.cpp.o	8099ee10ec8f216d
+196	1099	1713596054045730125	CMakeFiles/SignalAndSlot.dir/SignalAndSlot_autogen/mocs_compilation.cpp.o	55156be343cbceff
+196	1072	1713596054017730747	CMakeFiles/SignalAndSlot.dir/main.cpp.o	f09f980f5d7bd4a5
+189	1269	1713595288599980483	CMakeFiles/SignalAndSlot.dir/testsender.cpp.o	a6ea150d28f9ee02
+1	9	1713600237873153273	/home/jun/QT_project/SignalAndSlot/build/Desktop_Qt_6_7_0-Debug/SignalAndSlot_autogen/mocs_compilation.cpp	d551e272a2aa04f7
+1	9	1713600237873153273	/home/jun/QT_project/SignalAndSlot/build/Desktop_Qt_6_7_0-Debug/SignalAndSlot_autogen/timestamp	d551e272a2aa04f7
+196	931	1713596053877733854	CMakeFiles/SignalAndSlot.dir/testreceiver.cpp.o	fb052e1a053bf00b
+1	9	1713600237873153273	SignalAndSlot_autogen/mocs_compilation.cpp	d551e272a2aa04f7
+931	1155	1713600239017142473	SignalAndSlot	c48078f5274e0ca7
+1	9	1713600237873153273	SignalAndSlot_autogen/timestamp	d551e272a2aa04f7
+1	9	1713706374411599802	SignalAndSlot_autogen/timestamp	d551e272a2aa04f7
+1	9	1713706374411599802	SignalAndSlot_autogen/mocs_compilation.cpp	d551e272a2aa04f7
+1	9	1713706374411599802	/home/jun/QT_project/SignalAndSlot/build/Desktop_Qt_6_7_0-Debug/SignalAndSlot_autogen/timestamp	d551e272a2aa04f7
+1	9	1713706374411599802	/home/jun/QT_project/SignalAndSlot/build/Desktop_Qt_6_7_0-Debug/SignalAndSlot_autogen/mocs_compilation.cpp	d551e272a2aa04f7
+10	876	1713706375275626248	CMakeFiles/SignalAndSlot.dir/mainwindow.cpp.o	8099ee10ec8f216d
+876	1091	1713706375491632767	SignalAndSlot	c48078f5274e0ca7

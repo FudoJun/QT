@@ -1,0 +1,15 @@
+# ninja log v5
+158	999	1713706955544271676	CMakeFiles/WindwoTest.dir/main.cpp.o	b8f0cb8e8a842b91
+0	7	1713707265410656424	WindwoTest_autogen/timestamp	56506cadb2771518
+0	7	1713707265410656424	WindwoTest_autogen/mocs_compilation.cpp	56506cadb2771518
+888	1102	1713707266502564409	WindwoTest	81bdd76d43d44e23
+0	7	1713707265410656424	/home/jun/QT_project/WindwoTest/build/Desktop_Qt_6_7_0-Debug/WindwoTest_autogen/timestamp	56506cadb2771518
+7	888	1713707266290582256	CMakeFiles/WindwoTest.dir/mainwindow.cpp.o	6623e80f47287a2c
+0	7	1713707265410656424	/home/jun/QT_project/WindwoTest/build/Desktop_Qt_6_7_0-Debug/WindwoTest_autogen/mocs_compilation.cpp	56506cadb2771518
+159	980	1713706955524275209	CMakeFiles/WindwoTest.dir/WindwoTest_autogen/mocs_compilation.cpp.o	2cc02555c423b320
+1	7	1713708803537907492	WindwoTest_autogen/timestamp	56506cadb2771518
+1	7	1713708803537907492	WindwoTest_autogen/mocs_compilation.cpp	56506cadb2771518
+1	7	1713708803537907492	/home/jun/QT_project/WindwoTest/build/Desktop_Qt_6_7_0-Debug/WindwoTest_autogen/timestamp	56506cadb2771518
+1	7	1713708803537907492	/home/jun/QT_project/WindwoTest/build/Desktop_Qt_6_7_0-Debug/WindwoTest_autogen/mocs_compilation.cpp	56506cadb2771518
+8	912	1713708804441778607	CMakeFiles/WindwoTest.dir/mainwindow.cpp.o	6623e80f47287a2c
+912	1127	1713708804653748363	WindwoTest	81bdd76d43d44e23
